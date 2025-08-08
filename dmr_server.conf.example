@@ -1,0 +1,17 @@
+# DMR Voice Relay Server Configuration Example
+# Copy this file to dmr_server.conf and modify as needed
+
+# Server Configuration
+port = 62031
+bind_addr = 0.0.0.0
+timeout = 300
+verbose = true
+
+# Database Configuration
+# Uncomment and modify the following lines to enable database logging
+#db_enable = true
+#db_host = localhost
+#db_port = 3306
+#db_user = dmr
+#db_pass = your_password_here
+#db_name = dmr_server
