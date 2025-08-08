@@ -1,6 +1,6 @@
 # DMR Voice Relay Server
 
-一个简单的DMR（Digital Mobile Radio）语音转发服务器，用于中继DMR语音和数据通信。
+这是860 DMR（Digital Mobile Radio）语音转发服务器，简单的实现核心功能 用于处理中继DMR语音和数据通信。
 
 ## 功能特点
 
